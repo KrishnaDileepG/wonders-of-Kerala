@@ -1,0 +1,31 @@
+Webpage Task: "The Wonders of Kerala"
+Description:
+Create a simple webpage titled "The Wonders of Kerala" that highlights the state's beauty, culture, and famous attractions.
+
+Data for the Page
+Title: The Wonders of Kerala
+
+Introduction:
+Kerala, also known as "God’s Own Country," is a beautiful state in India known for its lush greenery, serene backwaters, and rich cultural heritage. From breathtaking landscapes to vibrant traditions, Kerala offers a unique experience to travelers.
+
+Main Attractions:
+
+Backwaters of Alleppey
+
+The backwaters of Alleppey offer a tranquil escape with houseboat cruises, lush paddy fields, and coconut groves reflecting on the water.
+
+Munnar - The Tea Gardens
+
+Munnar is famous for its vast tea plantations, cool climate, and breathtaking hill views. It is a paradise for nature lovers.
+
+Kathakali - The Classical Dance
+
+Kathakali, a classical dance-drama, is known for its elaborate costumes, detailed facial expressions, and storytelling.
+
+Traditional Kerala Cuisine
+
+Kerala’s cuisine is known for its variety of spices, coconut-based dishes, and seafood specialties. Popular dishes include Sadya, Appam with Stew, and Malabar Parotta with Beef Curry.
+
+Conclusion:
+Kerala is a destination that blends nature, culture, and tradition, making it one of the must-visit places in India. Whether it’s exploring the tea gardens, cruising the backwaters, or enjoying the flavors of Kerala, this state has something for everyone.
+

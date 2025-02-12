@@ -1,0 +1,25 @@
+Title: "Delicious Recipes from Kerala"
+Header:
+Include a title for the page.
+Include a navigation bar with links to "Home", "Recipes", "Blog", and "Contact". Use a simple, non-styled list for the navigation links (no external CSS required for this task).
+Main Content:
+Introduction: Provide a short introduction to the recipe blog with 1-2 paragraphs.
+Featured Recipes: Create a section showcasing 3-4 recipes. Each recipe should include:
+Recipe name (use h4 for the recipe title).
+An image of the dish (use img with a source of your choice).
+A brief description of the recipe (use p).
+Recipe Details: For one of the recipes, provide a link to a detailed page (can be a placeholder link like #).
+Footer:
+Include a footer with a copyright statement and a simple contact link (email or social media link).
+Data for the Page:
+You can use the following sample recipe information:
+
+Recipe 1: "Appam with Stew"
+Description: A traditional Kerala breakfast dish, Appam is soft, lacy rice pancakes served with a flavorful vegetable stew.
+Image: https://clubmahindra.gumlet.io/blog/images/Sadya-resized.jpg?w=376&dpr=2.6
+Recipe 2: "Puttu with Kadala Curry"
+Description: Steamed rice cake served with a spicy and flavorful black chickpea curry.
+Image: https://blog.swiggy.com/wp-content/uploads/2024/09/Image-2_Puttu-Kadal-Curry-1024x538.png
+Recipe 3: "Kerala Fish Curry"
+Description: A tangy and spicy fish curry made with fresh local fish and coconut milk.
+Image: https://www.surfindia.com/blogs/wp-content/uploads/2021/11/Kerala-Fish-Curry.jpg
